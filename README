@@ -1,0 +1,23 @@
+Author:      Chen Yunpeng
+Student ID:  A0144964W
+Time:        2015/08/10
+
+--------------------------------------------------
+
+Tested on:
+- Ubuntu 14.04 LTS
+- Matlab 2014b
+
+--------------------------------------------------
+
+Guide:
+
+1. run a quick demonstration
+- cd $GBVS/examples/coco
+- run_quick.m
+
+2. run the full test dataset
+- cd $GBVS/examples/coco
+- run_full.m
+
+--------------------------------------------------
